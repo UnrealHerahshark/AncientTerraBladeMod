@@ -1,0 +1,15 @@
+The pre-1.4.4 Terra Blade components, brought back from the dead.
+
+Note: The Ancient Terra Blade uses a First Fractal sprite. Does not include Zenith recipe support.
+
+Changelogs:
+
+1.2
+Fixed an issue with Ancient's Edge's description and name. Removed the Shimmer tooltip from Ancient Terra Blade.
+
+1.1
+Added Ancient versions of Light's Bane, Blood Butcherer, Blade of Grass, Muramasa, Night's Edge, Excalibur, True Night's Edge, and True Excalibur. Added Fiery Greatsword.
+
+1.0
+Added Ancient Terra Blade.
+Created.

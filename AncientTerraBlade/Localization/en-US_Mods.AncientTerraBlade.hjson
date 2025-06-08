@@ -1,0 +1,51 @@
+Items: {
+	AncientTerraBlade: {
+		Tooltip: "'The sword used by an old hero. Holding it fills you with a strange feeling of nostalgia.'"
+		DisplayName: Ancient Terra Blade
+	}
+
+	AncientsBane: {
+		Tooltip: ""
+		DisplayName: Ancient's Bane
+	}
+
+	AncientMuramasa: {
+		Tooltip: ""
+		DisplayName: Ancient Muramasa
+	}
+
+	AncientExcalibur: {
+		Tooltip: ""
+		DisplayName: Ancient Excalibur
+	}
+
+	AncientBladeofGrass: {
+		Tooltip: ""
+		DisplayName: Ancient Blade of Grass
+	}
+
+	AncientsButcherer: {
+		DisplayName: Ancient's Butcherer
+		Tooltip: ""
+	}
+
+	AncientsEdge: {
+		DisplayName: Ancient's Edge
+		Tooltip: ""
+	}
+
+	FieryGreatsword: {
+		DisplayName: Fiery Greatsword
+		Tooltip: "'It's made out of fire!'"
+	}
+
+	TrueAncientExcalibur: {
+		DisplayName: True Ancient Excalibur
+		Tooltip: ""
+	}
+
+	TrueAncientsEdge: {
+		DisplayName: True Ancient's Edge
+		Tooltip: ""
+	}
+}

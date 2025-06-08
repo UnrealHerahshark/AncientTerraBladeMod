@@ -1,0 +1,3 @@
+displayName = Ancient Terra Blade (And co.)
+author = UnrealHerahshark
+version = 1.3
