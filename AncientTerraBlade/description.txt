@@ -2,7 +2,12 @@ The pre-1.4.4 Terra Blade components, brought back from the dead.
 
 Note: The Ancient Terra Blade uses a First Fractal sprite. Does not include Zenith recipe support.
 
+GitHub page: https://github.com/UnrealHerahshark/AncientTerraBladeMod
+
 Changelogs:
+
+1.3.1
+Fixed the Fiery Greatsword being small. 
 
 1.3
 Fixed the Ancient Blade of Grass being crafted at an Evil Altar. Now is crafted at anvils.
